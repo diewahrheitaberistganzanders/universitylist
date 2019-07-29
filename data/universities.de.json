@@ -1,0 +1,2410 @@
+{
+	"name": "list of german universities",
+	"version": "1.0.0",
+	"date": "2019-07-26",
+	"authors": [{
+		"name": "sebastian moderlak",
+		"email": "sebastian@moderlak.de"
+	}],
+	"data": [{
+		"name": "Fachhochschule Aachen",
+		"city": "Aachen",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Hochschule für Musik und Tanz Köln",
+		"city": "Aachen",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Katholische Hochschule für Kirchenmusik",
+		"city": "Aachen",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Rwth Aachen Studenten",
+		"city": "Aachen",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Hochschule Aalen Technik und Wirtschaft",
+		"city": "Aalen",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Hochschule Albstadt-Sigmaringen",
+		"city": "Albstadt",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Alanus-Hochschule",
+		"city": "Alfter",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Ostbayerische Technische Hochschule",
+		"city": "Amberg",
+		"summersemester": "10-01",
+		"wintersemester": "03-15"
+	}, {
+		"name": "Hochschule für angewandte Wissenschaften – Hochschule Ansbach",
+		"city": "Ansbach",
+		"summersemester": "10-01",
+		"wintersemester": "03-15"
+	}, {
+		"name": "Hochschule für angewandte Wissenschaften – Hochschule Aschaffenburg",
+		"city": "Aschaffenburg",
+		"summersemester": "10-01",
+		"wintersemester": "03-15"
+	}, {
+		"name": "Hochschule für angewandte Wissenschaften – Hochschule Augsburg",
+		"city": "Augsburg",
+		"summersemester": "10-01",
+		"wintersemester": "03-15"
+	}, {
+		"name": "Universität Augsburg",
+		"city": "Augsburg",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "accadis Hochschule Bad Homburg",
+		"city": "Bad Homburg",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Internationale Hochschule Bad Honnef",
+		"city": "Bad Honnef",
+		"summersemester": "10-01",
+		"wintersemester": "03-15"
+	}, {
+		"name": "Internationale Hochschule GmbH",
+		"city": "Bad Honnef",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Internationale Hochschule Liebenzell",
+		"city": "Bad Liebenzell",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Internationale Hochschule Bad Honnef - Bonn",
+		"city": "Bad Reichenhall",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Private Fachhochschule Nordhessen",
+		"city": "Bad Sooden-Allendorf",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Private Fachhochschule Nordhessen - Diploma",
+		"city": "Bad Sooden-Allendorf",
+		"summersemester": "10-01",
+		"wintersemester": "03-15"
+	}, {
+		"name": "Private Hochschule Nordhessen",
+		"city": "Bad Sooden-Allendorf",
+		"summersemester": "08-01",
+		"wintersemester": "02-01"
+	}, {
+		"name": "Hochschule für Wirtschaft, Technik und Kultur",
+		"city": "Baden-Baden",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Otto-Friedrich-Universität Bamberg",
+		"city": "Bamberg",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Hochschule für Fernsehen und Film",
+		"city": "Bayreuth",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Hochschule für evang. Kirchenmusik",
+		"city": "Bayreuth",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Universität Bayreuth",
+		"city": "Bayreuth",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "AMD Akademie - Mode- & Design GmbH",
+		"city": "Berlin",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Akkon Hochschule GmbH",
+		"city": "Berlin",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Alice Salomon Hochschule",
+		"city": "Berlin",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "BAU International Berlin",
+		"city": "Berlin",
+		"summersemester": "10-01",
+		"wintersemester": "03-15"
+	}, {
+		"name": "Bard College Berlin gGmbH",
+		"city": "Berlin",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Best-Sabel-Bildungszentrum GmbH",
+		"city": "Berlin",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Beuth Hochschule für Technik Berlin",
+		"city": "Berlin",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Bic Berlin International College GmbH",
+		"city": "Berlin",
+		"summersemester": "08-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Charite - Universitätsmedizin Berlin Campus Virchow-Klinikum I02/",
+		"city": "Berlin",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Dekra Hochschule Berlin",
+		"city": "Berlin",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "ESCP Europe Wirtschaftshochschule Berlin",
+		"city": "Berlin",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Embry-Riddle Aeronautical University",
+		"city": "Berlin",
+		"summersemester": "08-01",
+		"wintersemester": "02-01"
+	}, {
+		"name": "Esmod Internationale - Modeschule Via Thea GmbH",
+		"city": "Berlin",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "European School of",
+		"city": "Berlin",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Evangelische Hochschule Berlin",
+		"city": "Berlin",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Frank Baumann u Eggert Idler Design Akademie",
+		"city": "Berlin",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Freie Universität Berlin",
+		"city": "Berlin",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "HWR Hochschule für Wirtschaft und Recht",
+		"city": "Berlin",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Hertie School of Governance",
+		"city": "Berlin",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Hochschule der populären Künste FH",
+		"city": "Berlin",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Hochschule f Schauspielkunst\"Ernst Busch\"",
+		"city": "Berlin",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Hochschule für Gesundheit & Sport",
+		"city": "Berlin",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Hochschule für Musik Hanns Eisler",
+		"city": "Berlin",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Hochschule für Technik und Wirtschaft Berlin",
+		"city": "Berlin",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Hochschule für Wirschaft, Technik und Kultur",
+		"city": "Berlin",
+		"summersemester": "10-01",
+		"wintersemester": "03-15"
+	}, {
+		"name": "Hochschule für Wirtschaft und Recht",
+		"city": "Berlin",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Humboldt-Universität zu Berlin",
+		"city": "Berlin",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "IN.D Institute of Design GmbH & Co.KG",
+		"city": "Berlin",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "IUBH School of Business and Management",
+		"city": "Berlin",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "International Psychoanalytic University Berlin gGmbH",
+		"city": "Berlin",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Katholische Hochschule f. Sozialwesen",
+		"city": "Berlin",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Kunsthochschule Berlin-Weißensee",
+		"city": "Berlin",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "MSB Medical School Berlin GmbH",
+		"city": "Berlin",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Mediadesign Hochschule",
+		"city": "Berlin",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Medienakademie AG",
+		"city": "Berlin",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "PHB - Psychologische Hochschule Berlin gGmbH",
+		"city": "Berlin",
+		"summersemester": "10-01",
+		"wintersemester": "03-15"
+	}, {
+		"name": "SRH Hochschule Berlin",
+		"city": "Berlin",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "SRH Hochschule GmbH (gemeinnützig)",
+		"city": "Berlin",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "SRH K & D GmbH",
+		"city": "Berlin",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Sigmund Freud Privatuniversität Berlin",
+		"city": "Berlin",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Steinbeis-Hochschule Berlin",
+		"city": "Berlin",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Steinbeis-Hochschule Berlin",
+		"city": "Berlin",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Technische Universität Berlin",
+		"city": "Berlin",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Touro College Berlin",
+		"city": "Berlin",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Universität der Künste UdK Berlin",
+		"city": "Berlin",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "bbw Akademie f Betriebswirt.Weiterbildg.GmbH",
+		"city": "Berlin",
+		"summersemester": "10-01",
+		"wintersemester": "03-15"
+	}, {
+		"name": "bbw Hochschule",
+		"city": "Berlin",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Hochschule Anhalt Abtl. Bernburg",
+		"city": "Bernburg",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Cusanus Hochschule",
+		"city": "Bernkastel-Kues",
+		"summersemester": "10-01",
+		"wintersemester": "03-15"
+	}, {
+		"name": "Hochschule Biberach",
+		"city": "Biberach",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "FHDW Fachhochschule der Wirtschaft",
+		"city": "Bielefeld",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Fachhochschule Bielefeld",
+		"city": "Bielefeld",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Fachhochschule der Diakonie",
+		"city": "Bielefeld",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Fachhochschule des Mittelstands (FHM) GmbH",
+		"city": "Bielefeld",
+		"summersemester": "10-01",
+		"wintersemester": "03-15"
+	}, {
+		"name": "Universität Bielefeld",
+		"city": "Bielefeld",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Technische Hochschule Bingen",
+		"city": "Bingen",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Hochschule Trier",
+		"city": "Birkenfeld",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "EBZ Business School University",
+		"city": "Bochum",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Evangelische Hochschule Rheinland",
+		"city": "Bochum",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Hochschule Bochum",
+		"city": "Bochum",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Hochschule für Gesundheit",
+		"city": "Bochum",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Internationale Berufsakademie der F+U Unternehmensgruppe gGmbH",
+		"city": "Bochum",
+		"summersemester": "10-01",
+		"wintersemester": "03-15"
+	}, {
+		"name": "Ruhr-Universität",
+		"city": "Bochum",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Technische Fachhochschule Georg Agricola",
+		"city": "Bochum",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Hochschule der Sparkassen-Finanzgruppe mbH",
+		"city": "Bonn",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Rheinische Friedrich-Wilhelms-Universität Bonn",
+		"city": "Bonn",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "musicube academy",
+		"city": "Bonn",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Technische Hochschule Brandenburg",
+		"city": "Brandenburg",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Hochschule für Bildende Künste",
+		"city": "Braunschweig",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Technische Universität",
+		"city": "Braunschweig",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Berufsakademie Sachsen",
+		"city": "Breitenbrunn",
+		"summersemester": "10-01",
+		"wintersemester": "03-15"
+	}, {
+		"name": "Apollon Hochschule der Gesundheitswirtschaft GmbH",
+		"city": "Bremen",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Hochschule Bremen",
+		"city": "Bremen",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Hochschule für",
+		"city": "Bremen",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Hochschule für Künste Bremen",
+		"city": "Bremen",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Hochschule für internationale Witschaft",
+		"city": "Bremen",
+		"summersemester": "08-01",
+		"wintersemester": "02-01"
+	}, {
+		"name": "Jacobs University Lafayette/Wellesley",
+		"city": "Bremen",
+		"summersemester": "08-01",
+		"wintersemester": "02-01"
+	}, {
+		"name": "Jacobs University Bremen gGmbH",
+		"city": "Bremen",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Universität Bremen",
+		"city": "Bremen",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Hochschule Bremerhaven",
+		"city": "Bremerhaven",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Europäische Fachhochschule Rhein/Erft GmbH",
+		"city": "Brühl",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Diploma Hochschule Private Fachhochschule Nordhessen",
+		"city": "Bückeburg",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Hochschule 21 gGmbH",
+		"city": "Buxtehude",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "SRH Hochschule Calw",
+		"city": "Calw",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Technische Universität Chemnitz",
+		"city": "Chemnitz",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Hochschule Coburg",
+		"city": "Coburg",
+		"summersemester": "10-01",
+		"wintersemester": "03-15"
+	}, {
+		"name": "Akademie für Tonkunst",
+		"city": "Darmstadt",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Evangelische Hochschule",
+		"city": "Darmstadt",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Hochschule Darmstadt",
+		"city": "Darmstadt",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Technische Universität Darmstadt",
+		"city": "Darmstadt",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Hochschule Anhalt-FH Abt. Dessau",
+		"city": "Dessau-Roßlau",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Hochschule für Musik",
+		"city": "Detmold",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Private Hochschule für Wirtschaft und Technik",
+		"city": "Diepholz",
+		"summersemester": "10-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Theologisches Hochschule Ewersbach",
+		"city": "Dietzhölztal",
+		"summersemester": "08-01",
+		"wintersemester": "02-01"
+	}, {
+		"name": "Fachhochschule Dortmund",
+		"city": "Dortmund",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "International School of Management - Campus Dortmund",
+		"city": "Dortmund",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Technische Universität Dortmund",
+		"city": "Dortmund",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "WAM- Die Medienakademie",
+		"city": "Dortmund",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "DIU Dresden International University GmbH",
+		"city": "Dresden",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Evangelische Hochschule Dresden",
+		"city": "Dresden",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Fachhochschule Dresden",
+		"city": "Dresden",
+		"summersemester": "08-01",
+		"wintersemester": "02-01"
+	}, {
+		"name": "Hochschule für Bildende Künste Dresden",
+		"city": "Dresden",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Hochschule für Technik und Wirtschaft Dresden",
+		"city": "Dresden",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Palucca Hochschule für Tanz Dresden",
+		"city": "Dresden",
+		"summersemester": "08-01",
+		"wintersemester": "02-01"
+	}, {
+		"name": "SRH Hotel-Akademie Dresden",
+		"city": "Dresden",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Technische Universität Dresden",
+		"city": "Dresden",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Folkwang Universität der Künste",
+		"city": "Duisburg",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Akademie Mode Design GmbH",
+		"city": "Düsseldorf",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "EBC Hochschule - Campus Düsseldorf",
+		"city": "Düsseldorf",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Fliedner Fachhochschule gGmbH",
+		"city": "Düsseldorf",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Heinrich-Heine-Universität Düsseldorf",
+		"city": "Düsseldorf",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Hochschule Düsseldorf",
+		"city": "Düsseldorf",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "IST - Hochschule für Management GmbH",
+		"city": "Düsseldorf",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Institut für Grafik Design Düsseldorf",
+		"city": "Düsseldorf",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "MEDIADESIGN Hochschule für Design und Informatik Düsseldorf GmbH",
+		"city": "Düsseldorf",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Robert-Schumann-Hochschule Düsseldorf",
+		"city": "Düsseldorf",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Staatliche Kunstakademie Düsseldorf",
+		"city": "Düsseldorf",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Hochschule für nachhaltige Entwicklung",
+		"city": "Eberswalde",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Katholische Universität Eichstätt-Ingolstadt",
+		"city": "Eichstätt",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Nordakademie GmbH",
+		"city": "Elmshorn",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Hochschule Emden/Leer",
+		"city": "Emden",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Fachhochschule Erfurt",
+		"city": "Erfurt",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Universität Erfurt",
+		"city": "Erfurt",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Friedrich-Alexander-Universität Erlangen – Nürnberg",
+		"city": "Erlangen",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "FOM Essen",
+		"city": "Essen",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Folkwang Universität der Künste Essen",
+		"city": "Essen",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "HBK Hochschule der bildenden Künste Essen",
+		"city": "Essen",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Universität Duisburg-Essen",
+		"city": "Essen",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Hochschule Esslingen",
+		"city": "Esslingen",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Lazi-Schule",
+		"city": "Esslingen",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Europa Universität Flensburg",
+		"city": "Flensburg",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Hochschule Flensburg",
+		"city": "Flensburg",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Dr Hochs Konservatorium",
+		"city": "Frankfurt",
+		"summersemester": "10-01",
+		"wintersemester": "03-15"
+	}, {
+		"name": "Europa-Universität Viadrina Frankfurt",
+		"city": "Frankfurt",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "European School of Design",
+		"city": "Frankfurt",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "FOM Frankfurt",
+		"city": "Frankfurt",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Frankfurt School of Finance and Management",
+		"city": "Frankfurt",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Frankfurt University of Applied Sciences",
+		"city": "Frankfurt",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Frankfurter Akademie f. Kommunikation+Design",
+		"city": "Frankfurt",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Johann Wolfgang Goethe-Universität Frankfurt",
+		"city": "Frankfurt",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Hochschule für Musik und Darstellende Kunst",
+		"city": "Frankfurt",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Philosophisch-Theologische Hochschule",
+		"city": "Frankfurt",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Provadis School of International Management and Technology",
+		"city": "Frankfurt",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Staatl. Hochschule für bildende Künste",
+		"city": "Frankfurt",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Technische Universität Bergakademie Freiberg",
+		"city": "Freiberg",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Albert-Ludwigs-Universität Freiburg",
+		"city": "Freiburg",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Evangelische Hochschule Freiburg",
+		"city": "Freiburg",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Hochschule für Kunst, Design &",
+		"city": "Freiburg",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Hochschule für Musik Freiburg",
+		"city": "Freiburg",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Katholische Hochschule Freiburg",
+		"city": "Freiburg",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Hochschule Weihenstephan-Triesdorf",
+		"city": "Freising",
+		"summersemester": "10-01",
+		"wintersemester": "03-15"
+	}, {
+		"name": "THM Technische Hochschule Mittelhessen",
+		"city": "Friedberg",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Theologische Hochschule Friedensau",
+		"city": "Friedensau",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Zeppelin University gGmbH",
+		"city": "Friedrichshafen",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Hochschule Fulda",
+		"city": "Fulda",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Klinikum Fulda - Schule für",
+		"city": "Fulda",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Theologische Fakultät Fulda",
+		"city": "Fulda",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Wilhelm-Löhe Hochschule",
+		"city": "Fürth",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Hochschule Furtwangen University",
+		"city": "Furtwangen",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Hochschule Geisenheim",
+		"city": "Geisenheim",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Hochschule für Wirtschaft und Umwelt Nürtingen-Geislingen",
+		"city": "Geislingen",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Fachhochschule für öffentliche Verwaltung NRW",
+		"city": "Gelsenkirchen",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Westfälische Hochschule",
+		"city": "Gelsenkirchen",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "SRH Fachhochschule",
+		"city": "Gera",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Johannes Gutenberg Universität",
+		"city": "Germersheim",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Freie Theologische Hochschule Gießen",
+		"city": "Gießen",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Justus-Liebig-Universität",
+		"city": "Gießen",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Georg-August-Universität Göttingen",
+		"city": "Göttingen",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "HAWK – Hochschule für angewandte Wissenschaft/Kunst",
+		"city": "Göttingen",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "PFH Private Hochschule Göttingen",
+		"city": "Göttingen",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Ernst Moritz Arndt Universität",
+		"city": "Greifswald",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "die Medienakademie AG",
+		"city": "Grünwald",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Fachhochschule Südwestfalen",
+		"city": "Hagen",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Fernuniversität",
+		"city": "Hagen",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Burg Giebichenstein Kunsthochschule Halle",
+		"city": "Halle",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Evangelische Hochschule für Kirchenmusik",
+		"city": "Halle",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Martin-Luther-Universität",
+		"city": "Halle",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "AMD Akademie Mode & Design GmbH",
+		"city": "Hamburg",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Asklepios Campus Hamburg",
+		"city": "Hamburg",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Brand Academy - Hochschule für Design und Kommunikation",
+		"city": "Hamburg",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Bucerius Law School - Hochschule für Rechtswissenschaft",
+		"city": "Hamburg",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Europäische Fernhochschule Hamburg GmbH – Euro-FH",
+		"city": "Hamburg",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Evang. Hochschule für soz Arbeit u Diakonie",
+		"city": "Hamburg",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "FOM Hamburg",
+		"city": "Hamburg",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "HafenCity Universität",
+		"city": "Hamburg",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Hamburg Media School GmbH",
+		"city": "Hamburg",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Hamburg School of Business Administration",
+		"city": "Hamburg",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Hamburger Fern-Hochschule",
+		"city": "Hamburg",
+		"summersemester": "08-01",
+		"wintersemester": "02-01"
+	}, {
+		"name": "Helmut-Schmidt-Universität",
+		"city": "Hamburg",
+		"summersemester": "08-01",
+		"wintersemester": "02-01"
+	}, {
+		"name": "Hochschule für Management Campus Hamburg",
+		"city": "Hamburg",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Hochschule für Musik und Theater",
+		"city": "Hamburg",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Hochschule für bildende Künste – HfbK",
+		"city": "Hamburg",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "ISS International Business - School of Servicemanagement GmbH",
+		"city": "Hamburg",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Islamische Akademie Deutschland",
+		"city": "Hamburg",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Kühne Logistics University - KLU",
+		"city": "Hamburg",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Laureate Academies GmbH",
+		"city": "Hamburg",
+		"summersemester": "08-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "MSH Medical School Hamburg",
+		"city": "Hamburg",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Medienakademie Hamburg",
+		"city": "Hamburg",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "NBS - Northern Business School",
+		"city": "Hamburg",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Nordakademie Graduate School",
+		"city": "Hamburg",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Technische Universität Hamburg – Studierendenservice",
+		"city": "Hamburg",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Universität Hamburg – CampusCenter",
+		"city": "Hamburg",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Hochschule Hamm-Lippstadt",
+		"city": "Hamm",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "SRH Hochschule f.Logistik u.Wirtschaft Hamm",
+		"city": "Hamm",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Brüder-Grimm-Berufsakademie Hanau GmbH",
+		"city": "Hanau",
+		"summersemester": "08-01",
+		"wintersemester": "02-01"
+	}, {
+		"name": "BSP Business School Berlin GmbH",
+		"city": "Handeloh",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Fachhochschule des Mittelstandes (FHM)",
+		"city": "Hannover",
+		"summersemester": "10-01",
+		"wintersemester": "03-15"
+	}, {
+		"name": "Fachhochschule für die Wirtschaft FHDW",
+		"city": "Hannover",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Gottfried Wilhelm Leibniz Universität Hannove",
+		"city": "Hannover",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Hochschule Hannover",
+		"city": "Hannover",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Hochschule f. Musik u. Theater Hannover",
+		"city": "Hannover",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Leibniz Fachhochschule",
+		"city": "Hannover",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Medizinische Hochschule Hannover",
+		"city": "Hannover",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Stiftung Tierärztliche Hochschule Hannover",
+		"city": "Hannover",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Fachhochschule Westküste",
+		"city": "Heide",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Hochschule Fresenius für Internationales Management",
+		"city": "Heidelberg",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Hochschule für Jüdische Studien Heidelberg",
+		"city": "Heidelberg",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Hochschule für Kirchenmusik",
+		"city": "Heidelberg",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Pädagogische Hochschule",
+		"city": "Heidelberg",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "SRH Hochschule Heidelberg",
+		"city": "Heidelberg",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Universität Heidelberg Ruprecht-Karls-Universität",
+		"city": "Heidelberg",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Hochschule Heilbronn Technik, Wirtschaft, Informatik",
+		"city": "Heilbronn",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Fachhochschule für Interkulturelle Theologie",
+		"city": "Hermannsburg",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Universität Hildesheim",
+		"city": "Hildesheim",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Hochschule Hof",
+		"city": "Hof",
+		"summersemester": "10-01",
+		"wintersemester": "03-15"
+	}, {
+		"name": "Hochschule Fresenius",
+		"city": "Idstein",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Technische Universität Ilmenau",
+		"city": "Ilmenau",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Hochschule für angew. Wissenschaften München",
+		"city": "Ingolstadt",
+		"summersemester": "10-01",
+		"wintersemester": "03-15"
+	}, {
+		"name": "Studienkolleg bei den Universitäten",
+		"city": "Ingolstadt",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Technische Hochschule Ingolstadt",
+		"city": "Ingolstadt",
+		"summersemester": "10-01",
+		"wintersemester": "03-15"
+	}, {
+		"name": "Leopold-Franzens-Universität",
+		"city": "Innsbruck",
+		"summersemester": "10-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Laureate International Universities",
+		"city": "Iserlohn",
+		"summersemester": "10-01",
+		"wintersemester": "03-15"
+	}, {
+		"name": "University of Applied Sciences Europe",
+		"city": "Iserlohn",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Hochschule für Gesundheit und Sport GmbH",
+		"city": "Ismaning",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Hochschule für angewandtes Management GmbH",
+		"city": "Ismaning",
+		"summersemester": "10-01",
+		"wintersemester": "03-15"
+	}, {
+		"name": "nta Hochschule Isny",
+		"city": "Isny",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Ernst-Abbe-Hochschule Jena University of Applied Sciences",
+		"city": "Jena",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Friedrich-Schiller-Universität",
+		"city": "Jena",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Fachhochschule Aachen Abt. Jülich",
+		"city": "Jülich",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Hochschule Kaiserslautern",
+		"city": "Kaiserslautern",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Technische Universität Kaiserslautern",
+		"city": "Kaiserslautern",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Hochschule Rhein-Waal",
+		"city": "Kamp-Lintfort",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Hochschule Karlsruhe - Technik und Wirtschaft",
+		"city": "Karlsruhe",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "KIT-Karlsruher Institut für Technologie",
+		"city": "Karlsruhe",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Karlshochschule",
+		"city": "Karlsruhe",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Staatliche Akademie der bildenden Künste",
+		"city": "Karlsruhe",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Staatliche Hochschule für Gestaltung",
+		"city": "Karlsruhe",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "CVJM Hochschule",
+		"city": "Kassel",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Universität Kassel",
+		"city": "Kassel",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Hochschule für öffentliche Verwaltung Kehl",
+		"city": "Kehl",
+		"summersemester": "10-01",
+		"wintersemester": "03-15"
+	}, {
+		"name": "Hochschule für angewandte Wissenschaften",
+		"city": "Kempten",
+		"summersemester": "10-01",
+		"wintersemester": "03-15"
+	}, {
+		"name": "Christian Albrechts Universität CAU",
+		"city": "Kiel",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Fachhochschule Kiel",
+		"city": "Kiel",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Muthesius Kunsthochschule",
+		"city": "Kiel",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Hochschule Koblenz RheinMoselCampus",
+		"city": "Koblenz",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Universität Koblenz-Landau",
+		"city": "Koblenz",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Akademie für Gestaltung Ecosign",
+		"city": "Köln",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "CBS Cologne Business School GmbH",
+		"city": "Köln",
+		"summersemester": "08-01",
+		"wintersemester": "02-01"
+	}, {
+		"name": "Deutsche Sporthochschule",
+		"city": "Köln",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Fachhochschule des Mittelstands",
+		"city": "Köln",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "HSD Hochschule Döpfer GmbH",
+		"city": "Köln",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Hochschule für Medien, Kommunikation",
+		"city": "Köln",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "IB-Hochschule Berlin Verwaltungssitz Köln",
+		"city": "Köln",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Kunsthochschule f Medien",
+		"city": "Köln",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Rheinische Fachhochschule Köln",
+		"city": "Köln",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Technische Hochschule Köln",
+		"city": "Köln",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Universität zu Köln Studierenden Servicecenter",
+		"city": "Köln",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "praxisHochschule Köln",
+		"city": "Köln",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Hochschule Konstanz - Technik, Wirtschaft und Gestaltung",
+		"city": "Konstanz",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Universität Konstanz",
+		"city": "Konstanz",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Hochschule Anhalt-FH Abt. Köthen",
+		"city": "Köthen",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Universität Koblenz Landau",
+		"city": "Landau",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Hochschule Landshut",
+		"city": "Landshut",
+		"summersemester": "10-01",
+		"wintersemester": "03-15"
+	}, {
+		"name": "Technische Hochschule Deggendorf",
+		"city": "Landshut",
+		"summersemester": "10-01",
+		"wintersemester": "03-15"
+	}, {
+		"name": "Hochschule Emden-Leer",
+		"city": "Leer",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "HHL Leipzig - Graduate School of Management",
+		"city": "Leipzig",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Hochschule  für Telekommunikation Leipzig",
+		"city": "Leipzig",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Hochschule für Grafik und Buchkunst",
+		"city": "Leipzig",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Hochschule für Technik, Wirtschaft und Kultur",
+		"city": "Leipzig",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Universität Leipzig",
+		"city": "Leipzig",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Vitruvius Hochschule Leipzig",
+		"city": "Leipzig",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Hochschule Ostwestfalen-Lippe",
+		"city": "Lemgo",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Fachhochschule Lübeck",
+		"city": "Lübeck",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Musik-und Kunstschule Lübeck gGmbH",
+		"city": "Lübeck",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Musikhochschule Lübeck",
+		"city": "Lübeck",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Universität zu Lübeck",
+		"city": "Lübeck",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Akademie für Darstellende",
+		"city": "Ludwigsburg",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Evangelische Hochschule Ludwigsburg",
+		"city": "Ludwigsburg",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Filmakademie Baden-Württemberg GmbH",
+		"city": "Ludwigsburg",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Hochschule Ludwigsburg",
+		"city": "Ludwigsburg",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Pädagogische Hochschule Ludwigsburg",
+		"city": "Ludwigsburg",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Hochschule Ludwigshafen am Rhein",
+		"city": "Ludwigshafen",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Leuphana Universität Lüneburg",
+		"city": "Lüneburg",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Otto-von-Guericke-Universität Magdeburg",
+		"city": "Magdeburg",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "EMS European Management School",
+		"city": "Mainz",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Hochschule Mainz",
+		"city": "Mainz",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Johannes-Gutenberg-Universität",
+		"city": "Mainz",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Katholische Hochschule Mainz",
+		"city": "Mainz",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Duale Hochschule Baden-Württemberg",
+		"city": "Mannheim",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "EC Europa Campus GmbH - Abwicklungen von Bildungsmaß- nahmen in Deutschland",
+		"city": "Mannheim",
+		"summersemester": "10-01",
+		"wintersemester": "03-15"
+	}, {
+		"name": "Freie Kunstakademie Mannheim",
+		"city": "Mannheim",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Hochschule Mannheim",
+		"city": "Mannheim",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Hochschule der Wirtschaft f. Management gGmbH",
+		"city": "Mannheim",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Hochschule der Wirtschaft für Management",
+		"city": "Mannheim",
+		"summersemester": "10-01",
+		"wintersemester": "03-15"
+	}, {
+		"name": "Popakademie Baden-Württemberg",
+		"city": "Mannheim",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Universität Mannheim",
+		"city": "Mannheim",
+		"summersemester": "08-01",
+		"wintersemester": "02-01"
+	}, {
+		"name": "Evangelische Hochschule Tabor",
+		"city": "Marburg",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Philipps Universität Marburg",
+		"city": "Marburg",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Hochschule Merseburg",
+		"city": "Merseburg",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Fachhochschule Bielefeld Campus Minden",
+		"city": "Minden",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "AMAK Akademie für multimediale Ausbildung und Kommunikation e.V.",
+		"city": "Mittweida",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Hochschule Mittweida",
+		"city": "Mittweida",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "SIMKI e.V. Hochschule Mittweida",
+		"city": "Mittweida",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Hochschule Niederrhein",
+		"city": "Mönchengladbach",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Evangelische Hochschule Moritzburg",
+		"city": "Moritzburg",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Hochschule Ruhr West",
+		"city": "Mülheim",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "AMD Akademie Mode und Design GmbH",
+		"city": "München",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Campus M21 GmbH & Co. KG",
+		"city": "München",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "EU Business School Munich GmbH",
+		"city": "München",
+		"summersemester": "10-01",
+		"wintersemester": "03-15"
+	}, {
+		"name": "FOM München",
+		"city": "München",
+		"summersemester": "08-01",
+		"wintersemester": "02-01"
+	}, {
+		"name": "Globe Business College Munich",
+		"city": "München",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Hochschule Macromedia für angewandte Wissenschaften",
+		"city": "München",
+		"summersemester": "10-01",
+		"wintersemester": "03-15"
+	}, {
+		"name": "Hochschule d. bayr. Wirtschaft",
+		"city": "München",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Hochschule für Musik und Theater München",
+		"city": "München",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Hochschule für Philosophie",
+		"city": "München",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Hochschule für Politik",
+		"city": "München",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Katholische Stiftungsfachhochschule München",
+		"city": "München",
+		"summersemester": "10-01",
+		"wintersemester": "03-15"
+	}, {
+		"name": "Ludwig-Maximilians-Universität",
+		"city": "München",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Mediadesign Hochschule für Design & Informatik GmbH",
+		"city": "München",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Munich Business School",
+		"city": "München",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "SAE Institut GmbH",
+		"city": "München",
+		"summersemester": "08-01",
+		"wintersemester": "02-01"
+	}, {
+		"name": "SDI Hochschule für Angewandte Sprachen",
+		"city": "München",
+		"summersemester": "10-01",
+		"wintersemester": "03-15"
+	}, {
+		"name": "Technische Universität München",
+		"city": "München",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Ukrainische Freie Universität",
+		"city": "München",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Fachhochschule Münster",
+		"city": "Münster",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Katholische Hochschule NRW",
+		"city": "Münster",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Kunstakademie Münster Hochschule für Bildende Künste",
+		"city": "Münster",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "MIB GmbH",
+		"city": "Münster",
+		"summersemester": "10-01",
+		"wintersemester": "03-15"
+	}, {
+		"name": "Musikhochschule Münster",
+		"city": "Münster",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Schröder",
+		"city": "Münster",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Westfälische Wilhelms Universität",
+		"city": "Münster",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Universität der Bundeswehr München",
+		"city": "Neubiberg",
+		"summersemester": "10-01",
+		"wintersemester": "03-15"
+	}, {
+		"name": "Hochschule Neubrandenburg",
+		"city": "Neubrandenburg",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Augustana-Hochschule",
+		"city": "Neuendettelsau",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "ASW- Berufsakademie Saarland",
+		"city": "Neunkirchen",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Medizinische Hochschule Brandenburg",
+		"city": "Neuruppin",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Europäische Fachhochschule Rhein-Erft",
+		"city": "Neuss",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Hochschule Neuss für int. Wirtschaft",
+		"city": "Neuss",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Hochschule Neu-Ulm",
+		"city": "Neu-Ulm",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Hochschule Nordhausen",
+		"city": "Nordhausen",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Akademie der Bildenden Künste",
+		"city": "Nürnberg",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Evangelische Hochschule Nürnberg",
+		"city": "Nürnberg",
+		"summersemester": "10-01",
+		"wintersemester": "03-15"
+	}, {
+		"name": "Hochschule für Musik Nürnberg",
+		"city": "Nürnberg",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Paracelsus Schule",
+		"city": "Nürnberg",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Technische Hochschule Nürnberg",
+		"city": "Nürnberg",
+		"summersemester": "10-01",
+		"wintersemester": "03-15"
+	}, {
+		"name": "Hochschule für Kunsttherapie",
+		"city": "Nürtingen",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Hochschule für Wirtschaft und Umwelt Nürtlingen-Geislingen",
+		"city": "Nürtingen",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "EBS International University",
+		"city": "Oestrich-Winkel",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Hochschule für Gestaltung Offenbach",
+		"city": "Offenbach",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Hochschule Offenburg - Hochschule für Technik, Wirtschaft und Medien",
+		"city": "Offenburg",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Carl von Ossietzky Universität Oldenburg",
+		"city": "Oldenburg",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Hochschule Osnabrück",
+		"city": "Osnabrück",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Universität Osnabrück",
+		"city": "Osnabrück",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Hochschule für Künste im Sozialen",
+		"city": "Ottersberg",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Katholische Hochschule NRW, Abt. Paderborn",
+		"city": "Paderborn",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Theologische Fakultät",
+		"city": "Paderborn",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Universität Paderborn",
+		"city": "Paderborn",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Universität Passau",
+		"city": "Passau",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Hochschule Pforzheim - Gestaltung, Technik, Wirtschaft und Recht",
+		"city": "Pforzheim",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Wilhelm Büchner Hochschule",
+		"city": "Pfungstadt",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Hochschule Kaiserslautern Standort Pirmasens",
+		"city": "Pirmasens",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Europäische Sportakademie Land Brbg. gGmbH",
+		"city": "Potsdam",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Fachhochschule Potsdam",
+		"city": "Potsdam",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Filmuniversität Babelsberg",
+		"city": "Potsdam",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "UMC Potsdam - University of Management",
+		"city": "Potsdam",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Universität Potsdam",
+		"city": "Potsdam",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Hochschule für Katholische Kirchenmusik und Musikpädagogik",
+		"city": "Regensburg",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Universität Regensburg",
+		"city": "Regensburg",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Hochschule Koblenz RheinAhrCampus",
+		"city": "Remagen",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "ESB Business School",
+		"city": "Reutlingen",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Hochschule Reutlingen - Hochschule für Technik-Wirtschaft-Informatik-Design",
+		"city": "Reutlingen",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Theologisches Hochschule Reutlingen",
+		"city": "Reutlingen",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Mathias Hochschule Rheine GmbH",
+		"city": "Rheine",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "praxisHochschule",
+		"city": "Rheine",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "SRH Fernhochschule gGmbH",
+		"city": "Riedlingen",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Hochschule Rosenheim",
+		"city": "Rosenheim",
+		"summersemester": "10-01",
+		"wintersemester": "03-15"
+	}, {
+		"name": "Europäische Fachhochschule Rhein/Erft",
+		"city": "Rostock",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Fachhochschule des Mittelstands (FHM) GmbH",
+		"city": "Rostock",
+		"summersemester": "08-01",
+		"wintersemester": "02-01"
+	}, {
+		"name": "Hochschule für Musik und Theater Rostock",
+		"city": "Rostock",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Universität Rostock",
+		"city": "Rostock",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Hochschule für Forstwirtschaft",
+		"city": "Rottenburg",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Hochschule RheinMain",
+		"city": "Rüsselsheim",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Akademie für Arbeit und Sozialwesen",
+		"city": "Saarbrücken",
+		"summersemester": "10-01",
+		"wintersemester": "03-15"
+	}, {
+		"name": "BA für Gesundheits u. Sozialw. Saarland",
+		"city": "Saarbrücken",
+		"summersemester": "10-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Berufsakademie f. Gesundheits u. Sozialwesen",
+		"city": "Saarbrücken",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Deutsche Hochschule für Prävention und Gesundheitsmanagement",
+		"city": "Saarbrücken",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Hochschule der Bildenden Künste Saar",
+		"city": "Saarbrücken",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Hochschule für Musik Saar",
+		"city": "Saarbrücken",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Hochschule für Technik und Wirtschaft",
+		"city": "Saarbrücken",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Universität des Saarlandes",
+		"city": "Saarbrücken",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Hochschule Bonn-Rhein-Sieg",
+		"city": "Sankt Augustin",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Phil.-Theol. Hochschule",
+		"city": "Sankt Augustin",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Hochschule Schmalkalden",
+		"city": "Schmalkalden",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Hochschule für Gestaltung Schwäbisch Gmünd",
+		"city": "Schwäbisch Gmünd",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Pädagogische Hochschule Schwäbisch Gmünd",
+		"city": "Schwäbisch Gmünd",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Bildungsmanagement Gesell. Schwerin mbH",
+		"city": "Schwerin",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Brandenburgische Technische Universität",
+		"city": "Senftenberg",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Universität Siegen",
+		"city": "Siegen",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Hochschule Albstadt-Sigmaringen",
+		"city": "Sigmaringen",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Deutsche Universität für Verwaltungswissenschaften Speyer",
+		"city": "Speyer",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Hochschule Magdeburg-Stendal",
+		"city": "Stendal",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Hochschule Stralsund",
+		"city": "Stralsund",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "AKAD Hochschule Stuttgart",
+		"city": "Stuttgart",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Freie Hochschule",
+		"city": "Stuttgart",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Hochschule der Medien",
+		"city": "Stuttgart",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Hochschule für Technik Stuttgart",
+		"city": "Stuttgart",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Merz Akademie Hochschule für Gestaltung Kunst und Medien",
+		"city": "Stuttgart",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "SAE Institute",
+		"city": "Stuttgart",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Staatliche Hochschule für Musik und Kunst",
+		"city": "Stuttgart",
+		"summersemester": "10-01",
+		"wintersemester": "03-15"
+	}, {
+		"name": "Universität Hohenheim",
+		"city": "Stuttgart",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Universität Stuttgart",
+		"city": "Stuttgart",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "VWA Württembergische Verwaltungs- und Wirtschafts-Akademie",
+		"city": "Stuttgart",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Ostfalia Hochschule für angewandte Wissenschaften",
+		"city": "Suderburg",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Theologische Fakultät Trier",
+		"city": "Trier",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Universität Trier",
+		"city": "Trier",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Staatliche Hochschule für Musik",
+		"city": "Trossingen",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Leibniz Kolleg",
+		"city": "Tübingen",
+		"summersemester": "08-01",
+		"wintersemester": "02-01"
+	}, {
+		"name": "Universität Tübingen",
+		"city": "Tübingen",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Hochschule Furtwangen Campus Tuttlingen",
+		"city": "Tuttlingen",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Hochschule Ulm",
+		"city": "Ulm",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Hochschule für Kommunikation & Gestaltung",
+		"city": "Ulm",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Universität Ulm",
+		"city": "Ulm",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "WHU - Otto Beisheim School of Management",
+		"city": "Vallendar",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Universität Vechta",
+		"city": "Vechta",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Hochschule Furtwangen Campus – Villingen-Schwenningen",
+		"city": "Villingen-Schwenningen",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Fachhochschule Wedel",
+		"city": "Wedel",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Bauhaus Universität Weimar",
+		"city": "Weimar",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Hochschule Ravensburg-Weingarten",
+		"city": "Weingarten",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Hochschule Harz",
+		"city": "Wernigerode",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "EBS Universität für Wirtschaft",
+		"city": "Wiesbaden",
+		"summersemester": "08-01",
+		"wintersemester": "02-01"
+	}, {
+		"name": "Wiesbadener Musik- und Kunstschule e.V.",
+		"city": "Wiesbaden",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Technische Hochschule Wildau",
+		"city": "Wildau",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Jade Hochschule",
+		"city": "Wilhelmshaven",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Hochschule Wismar",
+		"city": "Wismar",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Private Universität Witten/Herdecke GmbH",
+		"city": "Witten",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Ostfalia Hochschule für angew. Wissenschaften",
+		"city": "Wolfenbüttel",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Hochschule Worms",
+		"city": "Worms",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Bergische Universität Wuppertal",
+		"city": "Wuppertal",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Kirchliche Hochschule Wuppertal/Bethel",
+		"city": "Wuppertal",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Hochschule für Musik Würzburg",
+		"city": "Würzburg",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Universität Würzburg",
+		"city": "Würzburg",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Theologische Hochschule Elstal",
+		"city": "Wustermark",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Hochschule Zittau/Görlitz",
+		"city": "Zittau",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}, {
+		"name": "Internationales Hochschulinstitut Zittau",
+		"city": "Zittau",
+		"summersemester": "10-01",
+		"wintersemester": "04-01"
+	}, {
+		"name": "Westsächsische Hochschule Zwickau",
+		"city": "Zwickau",
+		"summersemester": "09-01",
+		"wintersemester": "03-01"
+	}]
+}
