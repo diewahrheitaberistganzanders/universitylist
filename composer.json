@@ -1,0 +1,12 @@
+{
+    "name": "sem/universitylist",
+    "description": "Lists of Universities",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "sebastian moderlak",
+            "email": "smoderlak@dr-walter.com"
+        }
+    ],
+    "require": {}
+}
