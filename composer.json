@@ -8,9 +8,7 @@
             "email": "smoderlak@dr-walter.com"
         }
     ],
-	"autoload": {
-        "classmap": [
-            "src"
-        ]
-	}
+    "autoload": {
+        "psr-4": {"Diewahrheitaberistganzanders\\Universitylist\\": "src/"}
+    }
 }
