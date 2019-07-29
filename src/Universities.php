@@ -53,14 +53,17 @@ class Universities
 
         // check existing content
         $data = file_get_contents($input);
+        $data = mb_convert_encoding($data, 'UTF-8', mb_detect_encoding($data, 'UTF-8,ISO-8859-1', true));
+
         if(empty($data)) {
             throw new Exception("empty data file for language '{$lang}' in input file '{$input}'");
         }
 
         // handle content as json data
         $json = json_decode($data);
-        $error = json_last_error_msg ();
-        if($error) {
+
+        if(json_last_error()!==JSON_ERROR_NONE) {
+            $error = json_last_error_msg();
             throw new Exception("error reading data file for lanugage '{$lang}' in input file '{$input}': " . ($error===false ? 'unknown error' : $error));
         }
 
@@ -72,13 +75,13 @@ class Universities
         }
 
         $this->meta = [
-            'name' => $json['name'],
-            'date' => $json['date'],
-            'version' => $json['version'],
-            'authors' => $json['authors'],
+            'name' => $json->name,
+            'date' => $json->date,
+            'version' => $json->version,
+            'authors' => $json->authors,
         ];
 
-        $this->data = $json['data'];
+        $this->data = $json->data;
     }
 
     /**
