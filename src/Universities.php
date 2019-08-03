@@ -98,4 +98,22 @@ class Universities
     public function getData() {
         return $this->data;
     }
+
+    /**
+     * find dataset of university by given exact name and return the first matching array result
+     * otherwise it will return null
+     *
+     * @return array|null
+     */
+    public function findUniversity($name) {
+
+        foreach($this->data as $key => $university) {
+            if($university->name===$name) {
+                return $this->data[$key];
+            }
+        }
+
+        // nothing found...
+        return null;
+    }
 }
