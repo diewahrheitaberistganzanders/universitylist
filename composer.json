@@ -9,6 +9,6 @@
         }
     ],
     "autoload": {
-        "psr-4": {"Diewahrheitaberistganzanders\\Universitylist\\": "src/"}
+        "psr-4": {"sem4711\\Universitylist\\": "src/"}
     }
 }
